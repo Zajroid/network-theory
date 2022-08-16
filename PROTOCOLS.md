@@ -85,3 +85,92 @@
     RIP Routing Information Protocol
     IRDP: Реализация RFC 1256
     Gateway Discovery Protocol (GDP) — протокол, разработанный Cisco, схожий с IRDP
+
+## Протоколы уровня 3.5
+    HIP Протокол идентификации хоста
+
+## Протоколы уровня 3+4
+    Xerox Network Systems
+
+# Протоколы уровня 4 (Транспортный уровень)
+    AH Аутентификационный заголовок по IP или IPSec
+    ESP Encapsulating Security Payload over IP or IPSec
+    GRE Generic Routing Encapsulation для туннелирования
+    IL Первоначально разработан как транспортный уровень для 9P
+    SCTP Stream Control Transmission Protocol
+    Sinec H1 для удаленного контроля
+    SPX Sequenced Packet Exchange
+    TCP Transmission Control Protocol
+    UDP User Datagram Protocol
+
+# Протоколы уровня 5 (Сеансовый уровень)
+    9P — протокол распределённой файловой системы, разработанный как часть Plan 9
+
+    NCP NetWare Core Protocol
+    NFS — сетевая файловая система
+    SMB Server Message Block
+    SOCKS «SOCKet Secure»
+    L2TP — Layer 2 Tunneling Protocol
+
+# Протоколы уровня 6 (уровень представления)
+    PPTP — Point-to-Point Tunneling Protocol
+
+# Прочие протоколы  
+    Controller Area Network (CAN)
+    Общепромышленный протокол (CIP)
+    Цифровое управление командами (DCC)
+    Financial Information eXchange (FIX)
+    I²C
+    Modbus
+    DECnet — семейство протоколов от Digital Equipment Corporation (ныне HP)
+    Service Location Protocol SLP
+    Service Advertising Protocol SAP
+
+# Протоколы уровня 7 (Прикладной уровень)
+    ADC — peer-to-peer-протокол обмена файлами
+    AFP, Apple Filing Protocol
+    BACnet, Building Automation and Control Network protocol
+    BitTorrent — peer-to-peer-протокол обмена файлами
+    BOOTP, Bootstrap Protocol
+    DIAMETER — протокол аутентификации, авторизации и работы с аккаунтами
+    DICOM содержит определение сетевого протокола
+    DICT — словарный протокол
+    DNS — система доменных имён
+    DHCP, Dynamic Host Configuration Protocol
+    ED2K — peer-to-peer-протокол обмена файлами
+    FTP — протокол передачи файлов
+    Finger — протокол, возвращающий информацию о пользователях на удалённом компьютере
+    Gnutella — peer-to-peer-протокол скачивания файлов
+    Gopher — иерархический протокол на основе гиперссылок
+    HTTP, Hypertext Transfer Protocol
+    IMAP, Internet Message Access Protocol
+    IRC — протокол для чата
+    ISUP, ISDN User Part
+    XMPP — протокол мгновенного обмена сообщениями
+    LDAP Lightweight Directory Access Protocol
+    MIME, Multipurpose Internet Mail Extensions
+    MSNP, Microsoft Notification Protocol (используется в Windows Live Messenger)
+    MAP, Mobile Application Part
+    NetBIOS — протокол общего пользования файлами и разрешения имен — основа обмена файлами в Windows.
+    NNTP — сетевой протокол передачи новостей
+    NTP — сетевой протокол времени
+    NTCIP, National Transportation Communications for Intelligent Transportation System Protocol
+    POP3 — почтовый протокол версии 3
+    RADIUS — протокол аутентификации, авторизации и работы с аккаунтами
+    Rlogin — протокол удаленного входа в UNIX
+    rsync — протокол передачи файлов для резервного копирования, копирования и зеркалирования
+    RTP, Real-time Transport Protocol
+    RTSP, Real-time Transport Streaming Protocol
+    SSH, Secure Shell
+    SISNAPI, Siebel Internet Session Network API
+    SIP, Session Initiation Protocol, сигнальный протокол
+    SMTP, Simple Mail Transfer Protocol
+    SNMP, Simple Network Management Protocol
+    SOAP, Simple Object Access Protocol
+    STUN, Session Traversal Utilities for NAT
+    TUP, Telephone User Part
+    Telnet — протокол удаленного доступа к терминалу
+    TCAP, Transaction Capabilities Application Part
+    TFTP, Trivial File Transfer Protocol, простой протокол передачи файлов
+    WebDAV, Web Distributed Authoring and Versioning
+    DSM CC Digital Storage Media Command and Control
